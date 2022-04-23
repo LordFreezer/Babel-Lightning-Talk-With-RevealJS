@@ -1,5 +1,5 @@
-What is Babel?
-# list items
+## What is Babel?
+
 <style type="text/css">
   .reveal p {
     text-align: left;
@@ -16,8 +16,3 @@ What is Babel?
 * picture
 * says more
 * than a thousand words
-
-or
-
-1. item 1
-1. item 2
