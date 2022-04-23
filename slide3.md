@@ -1,6 +1,7 @@
 ## What is Babel?
-
-<style type="text/css">
+<!--Borrowed CSS from-->
+<!--https://stackoverflow.com/questions/41024596/r-markdown-slides-with-reveal-js-how-to-left-align-list-items-bullets-and-numb-->
+<!--<style type="text/css">
   .reveal p {
     text-align: left;
   }
@@ -10,7 +11,7 @@
   .reveal ol {
     display: block;
   }  
-</style>
+</style>-->
 
 * Like Webpack, Babel transpiles your Javascript code!
 * It transforms higher level Javascript code into Javascript that the browser can understand.
